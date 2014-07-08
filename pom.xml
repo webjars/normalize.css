@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>normalize.css</artifactId>
-    <version>3.0.1-SNAPSHOT</version>
+    <version>3.0.1</version>
     <name>normalize.css</name>
     <description>WebJar for normalize.css</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/normalize.css</url>
         <connection>scm:git:https://github.com/webjars/normalize.css.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/normalize.css.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>normalize.css-3.0.1</tag>
     </scm>
     
     <properties>
